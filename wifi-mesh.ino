@@ -8,7 +8,6 @@
 
 #include <WiFi.h>
 #include <painlessMesh.h>
-#include <WiFiUdp.h>
 
 // Wi-Fi-uppgifter
 const char* ssid = "123456";       
